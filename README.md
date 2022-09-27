@@ -6,7 +6,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=rclev4sec.rclev4sec" alt="visitors"/>
 </p>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Security+Research;Cyber%20Security%20&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Security+Researcher;Cyber%20Security%20&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
 <table>
